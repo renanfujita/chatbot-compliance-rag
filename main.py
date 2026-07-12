@@ -8,7 +8,7 @@ from src.graph import grafo
 
 def rodar_chatbot():
     print("\n" + "="*50)
-    print("🌾 AGROAVANTE S.A. - ASSISTENTE JURÍDICO & COMPLIANCE 🌾")
+    print("RF_Projetos S.A. - ASSISTENTE JURÍDICO & COMPLIANCE 🌾")
     print("Digite 'sair' para encerrar o atendimento.")
     print("="*50 + "\n")
 

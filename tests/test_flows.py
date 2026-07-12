@@ -1,7 +1,7 @@
 import sys
 from pathlib import Path
 
-# Permite que o script de teste acesse o pacote 'src' localizado na pasta pai
+
 sys.path.append(str(Path(__file__).parent.parent))
 
 from src.graph import grafo
